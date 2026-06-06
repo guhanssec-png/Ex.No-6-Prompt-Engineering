@@ -1,3 +1,5 @@
+[EXP06.pdf](https://github.com/user-attachments/files/28657961/EXP06.pdf)
+[EXP06.pdf](https://github.com/user-attachments/files/28657958/EXP06.pdf)
 Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
 Aim: 
@@ -14,3 +16,6 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+
+
+[EXP06.pdf](https://github.com/user-attachments/files/28657964/EXP06.pdf)
